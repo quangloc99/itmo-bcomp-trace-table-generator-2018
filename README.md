@@ -94,6 +94,7 @@ Client: exit
 ```
 
 The lines begins with `Client` is the input line for bcomp, and lines begins with `Bcomp` is the bcomp's responses.
+> you can also see that I clear the flag for VU1 by default because I was too lazy not to handle the IO separately :).
 
 ## Limitations
 - Can only works with VU1. It can be modified thought to work with other VU and also even input, but I was too lazy to do that.
